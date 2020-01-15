@@ -1,0 +1,25 @@
+{
+  "name": "savings",
+  "version": "1.0.0",
+  "description": "A basic finance app",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanreedt/savings.git"
+  },
+  "author": "Ethan Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanreedt/savings/issues"
+  },
+  "homepage": "https://github.com/ethanreedt/savings#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
